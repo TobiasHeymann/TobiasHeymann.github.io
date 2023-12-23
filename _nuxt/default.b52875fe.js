@@ -1,1 +1,0 @@
-import{_ as t,v as _,z as n,t as o,L as c}from"./entry.77bdab2b.js";const s={},a={class:"font-poppins"};function r(p,d){const e=c;return o(),_("div",a,[n(e)])}const l=t(s,[["render",r]]);export{l as default};
